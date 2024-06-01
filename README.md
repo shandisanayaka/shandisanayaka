@@ -1,11 +1,16 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Shan Dissanayaka</h1>
+
+
 <h3 align="center">Crafting Code, Chasing Dreams</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shandisanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="shandisanayaka" /> </p>
 
 ---
+<a target="_blank" align="center">
+  <img align="right" top="500" height="155" width="225" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+</a>
 
 - 🌱 I’m currently learning **React , Angular, Spring Boot , Express.js**
 
