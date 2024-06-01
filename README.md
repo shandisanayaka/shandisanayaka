@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shan Dissanayaka</h1>
 <h3 align="center">Crafting Code, Chasing Dreams</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shandisanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="shandisanayaka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shandisanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="shandisanayaka" /> </p>
 
 - 🌱 I’m currently learning **React , Angular, Spring Boot , Express.js**
 
