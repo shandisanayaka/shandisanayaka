@@ -9,7 +9,7 @@
 
 ---
 <a target="_blank" align="center">
-  <img align="right" top="500" height="155" width="225" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+  <img align="right" top="500" height="150" width="220" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 </a>
 
 - 🌱 I’m currently learning **React , Angular, Spring Boot , Express.js**
